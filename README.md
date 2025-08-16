@@ -32,5 +32,5 @@ El uso indebido o incorrecto de este bot podría comprometer tu servidor si no s
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/discord-bot.git
+git clone https://github.com/flexyng/Zafiro-Bot-djs-v13.git
 cd discord-bot
