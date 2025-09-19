@@ -1,0 +1,12 @@
+Clasifed_: Developer Base
+Dymidless: Developer Base
+Ether: Developer (Creador y Fundador de SP Agency del cual Zafiro toma muchas ideas)
+Chido: Developer activo y codigo mejorado de su bot (ChidoBotV3)
+
+porfavor si usan el codigo recuerden leer la license Y DAR CREDITOS A CADA UNO DEL TEAM
+
+Esto lo hacemos por la comunidad que empieza en esto y que puedan ir viendo y aprendiendo como va la cosa 
+
+Me gustaria aprovechar que no damos ningun tipo de soporte sobre el codigo ni en telegram ni en discord ni en forums
+
+Muchas Gracias
