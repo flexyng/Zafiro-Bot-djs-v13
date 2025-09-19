@@ -5,7 +5,7 @@
 module.exports = (length) => {
     if (!length) throw new TypeError("The length is not defined");
 
-    const characters = '123456789abcdefghijklmnñopqrstuvwxyzABCDFGHIJKLMNÑOPQRSTUVXYZ';
+    const characters = '123456789abcdefghijklmnñopqrstuvwxyzABCDFGHBGBIJKLMNÑOPQRSTUVXYZ';
     let generatedString = "";
 
     for (let i = 0, n = characters.length; i < length; ++i) {

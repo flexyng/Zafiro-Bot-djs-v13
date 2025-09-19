@@ -14,7 +14,7 @@ moment.updateLocale("es", {
   weekdaysMin: "Do_Lu_Ma_Mi_Ju_Vi_Sa".split("_"),
 });
 
-mongoose.connect("mongodb+srv://admin:zafirodymiilexy@zafiro.xi85kfa.mongodb.net/");
+mongoose.connect("YOU DB LINK");
 mongoose.connection.on("open", () => console.log("DB Abierta <3"));
 mongoose.connection.on("close", () => console.log("DB Cerrada..."));
 
